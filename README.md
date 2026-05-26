@@ -2,6 +2,8 @@
 
 **Disclaimer:** This configuration works perfectly on my machine, but it might not work out of the box on yours. Please review the configurations before applying them to your own system.
 
+To clarify, I didn't develop this from the ground up. I just modified a deprecated Hyprland configuration to make it compatible with my system :)
+
 ## My Hardware Specifications
 
 - **OS:** CachyOS Linux (x86_64)
@@ -10,6 +12,16 @@
 - **Host:** ThinkPad T14 Gen 2 (T-14g2)
 
 ## Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/77c0e33a-b272-40cf-b494-56bd475cdcd0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5a7f19bb-0fa8-4494-9c81-6755cec40287" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/655f88f5-b6d2-4ec7-84ff-5445977ab9a3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6bd5eafb-8e6c-43cc-9572-b94f1414de67" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a23eaa0b-7460-4b03-a7b5-ea7c4d4b0a6a" />
+<img width="1916" height="1077" alt="image" src="https://github.com/user-attachments/assets/02d4176c-c3c5-41c9-887e-5dfd9caa6de4" />
+
+
+
+
 
 ## Credits
 
