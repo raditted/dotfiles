@@ -1,0 +1,6 @@
+"custom/launcher": {
+        "format": "<span color='#f38ba8'>⬤</span> <span color='#f9e2af'>⬤</span> <span color='#89b4fa'>⬤</span>",
+        "markup": true,
+        "on-click": "pkill -x rofi || ~/.config/hyprdots/scripts/rofilaunch.sh d",
+        "tooltip": false
+},
