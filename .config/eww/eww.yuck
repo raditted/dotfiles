@@ -537,7 +537,7 @@
                   )
                   (eventbox :cursor "pointer"
                     :class "logout"
-                    :onclick "loginctl terminate-user $USER"
+                    :onclick "hyprctl dispatch exit"
                     :tooltip " Logout "
                     (label :text "")
                   )
